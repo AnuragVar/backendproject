@@ -1,0 +1,11 @@
+{
+  "name": "elchemy-server",
+  "version": "1.0.0",
+  "description": "this is a server made during elchemy assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag Varshney",
+  "license": "ISC"
+}
